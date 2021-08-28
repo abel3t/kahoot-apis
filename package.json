@@ -1,7 +1,7 @@
 {
-  "name": "nestjs-graphql-core",
+  "name": "kahoot-apis",
   "version": "0.0.1",
-  "description": "NestJs GraphQL Core APIs",
+  "description": "Kahoot APIs",
   "author": "Abel Tran <abeltran.develop@gmail.com>",
   "license": "MIT",
   "scripts": {

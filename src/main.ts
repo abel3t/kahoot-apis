@@ -48,8 +48,8 @@ async function bootstrap() {
   );
 
   const options = new DocumentBuilder()
-    .setTitle('NestJs GraphQL Core')
-    .setDescription('NestJs GraphQL Core APIs description')
+    .setTitle('Kahoot APIs')
+    .setDescription('Kahoot APIs description')
     .setVersion('0.0.1')
     .build();
   const document = SwaggerModule.createDocument(app, options);
