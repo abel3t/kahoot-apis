@@ -150,7 +150,7 @@ module.exports = {
     'import/no-deprecated': 'warn',
     'import/no-internal-modules': 'off',
     'import/order': 'off',
-    'max-classes-per-file': ['error', 1],
+    'max-classes-per-file': ['error', 4],
     'max-len': [
       'error',
       {
